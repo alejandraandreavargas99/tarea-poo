@@ -46,3 +46,4 @@ if __name__ == '__main__':
     objVehiculo1.placa = 'GTR1234'
     # objVehiculo1._placa = 'GTR1234'
     print(objVehiculo1)
+    print(objVehiculo1)
